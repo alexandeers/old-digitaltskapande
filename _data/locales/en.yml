@@ -10,37 +10,35 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
-  categories: Categories
+  home: Hem
+  categories: Kategorier
   tags: Tags
-  archives: Archives
-  about: About
+  archives: Arkiv
+  about: Om
 
 # the text displayed in the search bar & search results
 search:
-  hint: search
-  cancel: Cancel
-  no_results: Oops! No results found.
+  hint: sök
+  cancel: Avbryt
+  no_results: Inga matchande resultat.
 
 panel:
-  lastmod: Recently Updated
-  trending_tags: Trending Tags
-  toc: Contents
+  lastmod: Nyligen Uppdaterade
+  trending_tags: Trendande Tags
+  toc: Innehåll
 
 copyright:
   # Shown at the bottom of the post
   license:
-    template: This post is licensed under :LICENSE_NAME by the author.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    template: .
+    name: .
+    link: .
 
   # Displayed in the footer
-  brief: Some rights reserved.
-  verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+  brief: .
+  verbose: .
 
-meta: Powered by :PLATFORM with :THEME theme.
+meta: .
 
 not_found:
   statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
@@ -52,11 +50,11 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: By
-  posted: Posted
-  updated: Updated
-  words: words
-  pageview_measure: views
+  written_by: Av
+  posted: Publicerad
+  updated: Uppdaterad
+  words: ord
+  pageview_measure: visningar
   read_time:
     unit: min
     prompt: read
