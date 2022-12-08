@@ -12,7 +12,8 @@ Jag har valt att göra om ljudet i "Oogway Ascends"-scenen i **Kung Fu Panda 1**
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/hYAQtEs2Img" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 ### Låten:
-> <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1398823372&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+> <audio controls style="width: 100%;"> <source src="/Inner_Peace.wav"> </audio>
+
 
 ***
 
@@ -30,7 +31,7 @@ Ackorden följer därmed ett enkelt mönster som alternerar mellan dur och moll.
 >
 > - **Violin & viola** - *bra fundament, täcker ackorden samt en del av melodin*
 > - **Cello** - *perfekt för en stark melodi som bygger på violinerna*
-> - **Kontrabas** - *mörka samt tydliga bastoner, väldigt starkt fundament som det hela ett oöverträffad djup*
+> - **Kontrabas** - *mörka samt tydliga bastoner, väldigt starkt fundament som det hela ett oöverträffat djup*
 > - **Valthorn** - *mörka men mjuka bastoner, passar som bakgrundsljud som gör allt mer storslaget*
 > - **Piccolo & flöjt & klarinett** - *mjuka, luftiga melodier som passar in i stämningen för scenen*
 > - **Stämda slagverk** - *följer ackorden och gör allt mer magiskt med oregelbundna notplaceringar*
