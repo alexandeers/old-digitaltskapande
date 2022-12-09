@@ -17,21 +17,27 @@ Jag har valt att göra om ljudet i "Oogway Ascends"-scenen i **Kung Fu Panda 1**
 
 ***
 
-# Min arbetsprocess
+<h1 style="background-color: var(--mask-bg); padding: 0.75em; border-radius: 6px;"><b>Min arbetsprocess inom FL Studio</b></h1>
 
 När vi fick ljuduppgiften så fick jag idén om att producera något lugnt, i form av en orkester.  
-En orkester består oftast utav en ensemble av olika *stråkinstrument*. 
+Jag funderade över vilka filmer som oftast har vackra scener, och tänkte på Kung Fu Panda.  
+För att få inspiration för vad jag skulle producera så tittade jag på scenen utan ljud och inbillade mig vad som skulle spelas i bakgrunden.
 
+En orkester består oftast utav en ensemble av olika *stråkinstrument*.
 I min återgivning av en full orkester så utnyttjade jag en mängd olika instrument, alla med speciella utsedda syften.  
 Känslan jag strävar efter att uppnå med orkestern är svårt att översätta till ord..  
-När jag skrev ackorden så siktade jag efter något upplyftande och glatt, men även något sorgligt.  
-Ackorden följer därmed ett enkelt mönster som alternerar mellan dur och moll.
+När jag skrev ackorden så siktade jag efter något ***upplyftande*** och ***glatt***, men även något ***sorgligt***. 
 
-> ### Exempel på instrument som användes och deras syften i min låt
+
+Ett passande ord skulle kunna vara... ***sursöt.***  
+Oogways yttrar sina allra sista ord med vishet till Shifu, i förberedelse för sin avgång. Oogway överlämnar sin plikt till Shifu, som nu har i sitt ansvar att sätta stopp för Tai-Lung.
+Ackorden följer därmed ett enkelt mönster som alternerar mellan dur och moll, och bryts av den sista delen för en mer majestätisk effekt då Oogway försvinner.
+
+> ### **Exempel på instrument som användes och deras syften i min låt**
 >
 > - **Violin & viola** - *bra fundament, täcker ackorden samt en del av melodin*
 > - **Cello** - *perfekt för en stark melodi som bygger på violinerna*
-> - **Kontrabas** - *mörka samt tydliga bastoner, väldigt starkt fundament som det hela ett oöverträffat djup*
+> - **Kontrabas** - *mörka samt tydliga bastoner, väldigt starkt fundament som ger det hela ett oöverträffat djup*
 > - **Valthorn** - *mörka men mjuka bastoner, passar som bakgrundsljud som gör allt mer storslaget*
 > - **Piccolo & flöjt & klarinett** - *mjuka, luftiga melodier som passar in i stämningen för scenen*
 > - **Stämda slagverk** - *följer ackorden och gör allt mer magiskt med oregelbundna notplaceringar*
