@@ -14,7 +14,6 @@ Jag har valt att göra om ljudet i "Oogway Ascends"-scenen i **Kung Fu Panda 1**
 ### Låten:
 > <audio controls style="width: 100%;"> <source src="/Inner_Peace.wav"> </audio>
 
-    
 ***
 
 <h1 style="background-color: var(--mask-bg); padding: 0.75em; border-radius: 6px;"><b>Min arbetsprocess inom FL Studio</b></h1>
