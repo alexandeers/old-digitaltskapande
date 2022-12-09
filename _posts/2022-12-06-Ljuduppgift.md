@@ -51,4 +51,4 @@ När äpplena faller ned och träffar marken så använde jag generiska "thud" l
 > **Compressor** - ett verktyg som minskar dynamiken (skillnaden i ljudnivå) genom att trycka ihop signalen.
 {: .prompt-tip }
 > **Distortion** - ett verktyg som används för att amplifiera ljudsignalen, men kan även användas som benämning för andra orelaterade förvrängningar till ljudsignalen.
-{: .prompt-tip } 
+{: .prompt-tip }
