@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Ljuduppgift"
-tag: [ljud, uppgift]
+tag: [musik, uppgift]
 categories: [digitaltskapande]
 ---
 ___
-# Introduktion - Oogway Ascends
+## Introduktion - Oogway Ascends
 Jag har valt att göra om ljudet i "Oogway Ascends"-scenen i **Kung Fu Panda 1**.  
 
 ### Scenen:
