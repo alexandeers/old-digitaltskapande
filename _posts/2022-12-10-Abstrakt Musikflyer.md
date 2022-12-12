@@ -4,18 +4,15 @@ title:  "Abstrakt Musikflyer"
 tag: [uppgift, bild]
 categories: [digitaltskapande]
 image:
-  path: /commons/devices-mockup.png
-  width: 800
-  height: 500
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  path: Musikflyer.jpg
+  width: 75%
+  height: 75%
+  alt: Slutresultatet.
 ---
 ___
 
 Den här uppgiften tycker jag har varit den roligaste uppgiften i digitalt skapande hittills.  
 Designen på min inlämnade flyer är resultatet av flera iterationer mellan olika sorters stilar. 
-> *Slutresultatet*
->
-> ![Abstrakt Musikflyer](Musikflyer.jpg "Title"){: w="75%" }
 
 <h1 style="background-color: var(--mask-bg); padding: 0.75em; border-radius: 6px;"><b>Planering och inspiration</b></h1>
 
