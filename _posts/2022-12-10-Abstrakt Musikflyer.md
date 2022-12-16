@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Abstrakt Musikflyer"
+title:  "Musikflyer"
 tag: [uppgift, bild]
 categories: [digitaltskapande]
 image:
