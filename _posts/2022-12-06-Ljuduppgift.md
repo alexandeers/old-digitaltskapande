@@ -42,12 +42,23 @@ Ackorden följer därmed ett enkelt mönster som alternerar mellan dur och moll,
 > - **Stämda slagverk** - *följer ackorden och gör allt mer magiskt med oregelbundna notplaceringar*
 > - **Mjukt piano** - *vackert piano ljud med mycket eko och efterklang, bidrar med mycket djup och ger kompositionen volym*
 
-## Övriga ljudeffekter
+# Röstinspelning
+För att få ett bra ljud på rösten som passar in i scenen så använde jag ett par verktyg i FL Studio samt en AI-röstprocessor.
+Det första jag gjorde var att lägga på en *noise-gate*, vilket tar bort allt ljud under en viss decibelnivå.  
+Det andra var att använda en compressor och applicera lite distortion på rösten, vilket gör det mer tydligt.  
+Det tredje och sista steget i FL-Studio var att lägga på en liten EQ för att höja diskanten lite samt klippa röstena så de matchar med scenen.
 
-När äpplena faller ned och träffar marken så använde jag generiska "thud" ljudeffekter som jag hittade på nätet. De flesta ljudeffekterna var av låg kvalité, men det kan man oftast åtgärda med hjälp av lite "*compression & distortion*" -plugins.
-
+Sedan så lade jag in ljudfilen i en AI-röstprocessor från Adobe vilket gör rösten extremt tydlig och får bort allt övrigt oljud.
 
 > **Compressor** - ett verktyg som minskar dynamiken (skillnaden i ljudnivå) genom att trycka ihop signalen.
 {: .prompt-tip }
 > **Distortion** - ett verktyg som används för att amplifiera ljudsignalen, men kan även användas som benämning för andra orelaterade förvrängningar till ljudsignalen.
 {: .prompt-tip }
+
+## Övriga ljudeffekter
+
+När äpplena faller ned och träffar marken så använde jag generiska "thud" ljudeffekter som jag hittade på nätet. De flesta ljudeffekterna var av låg kvalité, men det kan man oftast åtgärda med hjälp av lite "*compression & distortion*" -plugins.
+
+
+
+
