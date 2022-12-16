@@ -48,17 +48,15 @@ Det första jag gjorde var att lägga på en *noise-gate*, vilket tar bort allt 
 Det andra var att använda en compressor och applicera lite distortion på rösten, vilket gör det mer tydligt.  
 Det tredje och sista steget i FL-Studio var att lägga på en liten EQ för att höja diskanten lite samt klippa röstena så de matchar med scenen.
 
-Sedan så lade jag in ljudfilen i en AI-röstprocessor från Adobe vilket gör rösten extremt tydlig och får bort allt övrigt oljud.
+Sedan så lade jag in ljudfilen i en [AI-röstprocessor från Adobe](https://podcast.adobe.com/enhance) vilket gör rösten extremt tydlig och får bort allt övrigt oljud.
 
 > **Compressor** - ett verktyg som minskar dynamiken (skillnaden i ljudnivå) genom att trycka ihop signalen.
 {: .prompt-tip }
 > **Distortion** - ett verktyg som används för att amplifiera ljudsignalen, men kan även användas som benämning för andra orelaterade förvrängningar till ljudsignalen.
 {: .prompt-tip }
+> **Parametrisk equalizer** - ett grafiskt gränssnitt på alla frekvenser med 3-7 band som låter en öka eller minska volymen på respektive frekvenser.
+{: .prompt-tip }
 
 ## Övriga ljudeffekter
 
 När äpplena faller ned och träffar marken så använde jag generiska "thud" ljudeffekter som jag hittade på nätet. De flesta ljudeffekterna var av låg kvalité, men det kan man oftast åtgärda med hjälp av lite "*compression & distortion*" -plugins.
-
-
-
-
