@@ -8,7 +8,7 @@ ___
 
 > Animering:
 >
-> <iframe width="100%" height="100%" style="aspect-ratio: 16/9;" src="/Animeringsuppgift.mp4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+> <video width="100%" height="100%" controls style="aspect-ratio: 16/9;" frameborder="0" allowfullscreen><source src="/Animeringsuppgift.mp4" type="video/mp4"></video>
 <h1 style="background-color: var(--mask-bg); padding: 0.75em; border-radius: 6px;"><b>Arbetsprocess</b></h1>
 Jag gjorde den bara för att det var roligt och för att det var väldigt länge sedan jag sist animerade, även fast den var frivillig att göra. Den är inte riktigt färdig, men jag pallade inte göra sista delen, så jag gjorde en loop istället.
 
