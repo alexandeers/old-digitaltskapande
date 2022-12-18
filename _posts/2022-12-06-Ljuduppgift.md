@@ -12,7 +12,7 @@ Jag har valt att göra om ljudet i "Oogway Ascends"-scenen i **Kung Fu Panda 1**
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/hYAQtEs2Img" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 ### Låten:
-> <audio controls style="width: 100%;"> <source src="/Inner_Peace.wav"> </audio>
+> <audio controls style="width: 100%;"> <source src="/Inner_Peacev20.mp3"> </audio>
 
 ***
 
