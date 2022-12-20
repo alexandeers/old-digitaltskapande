@@ -14,6 +14,8 @@ Jag har valt att göra om ljudet i "Oogway Ascends"-scenen i **Kung Fu Panda 1**
 ### Låten:
 > <audio controls style="width: 100%;"> <source src="/Inner_Peacev20.mp3"> </audio>
 
+### Videon:
+> <video width="100%" height="100%" controls style="aspect-ratio: 16/9;" frameborder="0" allowfullscreen><source src="/OogwayAscends264.mp4" type="video/mp4"></video>
 ***
 
 <h1 style="background-color: var(--mask-bg); padding: 0.75em; border-radius: 6px;"><b>Min arbetsprocess inom FL Studio</b></h1>
