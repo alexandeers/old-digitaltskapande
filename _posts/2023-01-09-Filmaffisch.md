@@ -37,4 +37,4 @@ Mitt enda klagomål egentligen är upplösningen på silhuetterna, eftersom man 
 
 För att få allt att verkligen sitta så är det viktigt att tänka på kontrasten. Publiken ger kontrast och utrymme för texten, medan den tomma bakgrunden ger kontrast och utrymme för paret. Träden längst uppe på bilden bildar en sorts tratt, som jag tycker leder ögonen till paret också på grund av hur stark kontrasten vid paret är.  
 
-Det sista som jag märkte lite för sent var att jag glömde att ha med årstalet då filmen ska släppas.
+Det sista som jag märkte lite för sent var att jag glömde att ha med årstalet då filmen ska släppas. 
